@@ -108,7 +108,7 @@ Once processed, appointments are automatically created in Google Calendar.
 
 ## 📁 Repository Structure
 
-```text
+
 poc-agendamento-automatizado/
 │
 ├── docs/
