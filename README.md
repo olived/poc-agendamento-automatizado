@@ -134,7 +134,7 @@ poc-agendamento-automatizado/
 
 ---
 
-##📝 Notes
+## 📝 Notes
 
 This project was built as a Proof of Concept
 
@@ -146,8 +146,10 @@ Ideal for technical demos, proposals, and portfolio presentation
 
 ---
 
-##👤 Author
+## 👤 Author
 
 Daniel Oliveira
 DGO Data Solutions
 AI, Chatbots & Data Automation Solutions
+
+---
