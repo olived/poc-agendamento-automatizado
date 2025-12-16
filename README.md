@@ -1,8 +1,9 @@
-# POC – Automated Appointment Scheduling
+# Automated Appointment Scheduling
 
-Proof of Concept (POC) for an automated appointment scheduling system integrating a chatbot, workflow automation, and Google services.
+End-to-end automated appointment scheduling project integrating a chatbot, workflow automation, and Google services.
 
-This project demonstrates how service appointments can be scheduled end-to-end without human intervention, using low-code / no-code tools.
+This project demonstrates how service appointments can be scheduled seamlessly without human intervention, using low-code / no-code tools.  
+It was designed as a modular and extensible solution, allowing future enhancements and additional phases based on business needs.
 
 ---
 
